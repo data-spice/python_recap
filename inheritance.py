@@ -50,4 +50,4 @@ class TeachLead(developer,manager):
         
 l1=TeachLead("Victor","python",600)
 
-l1.show_role()
+l1.conduct_meeting()
